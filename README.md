@@ -1,4 +1,4 @@
 # first-demo
 this is my first repository
 <br>
-Autho - Harsh Srivastava
+Autho - Harsh (btech 2nd year)
